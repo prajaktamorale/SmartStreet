@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/praj/Desktop/SmartStreet_praj2withbarcode/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/praj/Desktop/SmartStreet_praj2withbarcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cc8e569647f797ef405e00f7dc4c13ebaf157fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/praj/Desktop/SmartStreet_praj2withbarcode/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93dfeec1772ca82d19fab1ad48acd5a4a74499d8">
+        <dex dex="/Users/praj/Desktop/SmartStreet_praj2withbarcode/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0d994f87f56cb79f3ef08e13d82eb4129935ef05/classes.dex" />
+    </item>
+
+</items>

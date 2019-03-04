@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartStreet_praj</string>
+    <string name="smartstreet">Know More</string>
+
+    <string name="scan">Scan</string>
+    <string name="title_activity_barcode">Smart Street</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="error_connect_to_services">Unable connect to Google Play services</string>
+    <string name="hnt_et_location">Enter location</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="homeButton" type="id" />
+    <item name="locationEntered" type="id" />
+    <item name="tvLocality" type="id" />
+</resources>
